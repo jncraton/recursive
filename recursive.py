@@ -94,6 +94,9 @@ def pow(a, b):
 
     We may assume that b will always be a non-negative integer 
 
+    Note: this algorithm uses many more multiplies than is necessary. Extra 
+    credit may be awarded for more efficient.
+
     >>> pow(2, 0)
     1
 
